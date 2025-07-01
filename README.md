@@ -78,38 +78,7 @@
 
 ## 📂 프로젝트 구조
 
-medikeeper/
-├── app/
-│ └── src/main/java/ddwucom/mobile/medikeeper/
-│ ├── data/
-│ │ ├── pharm/ # 약국 관련 데이터 계층
-│ │ │ ├── database/ # (예비) 로컬 DB 구성
-│ │ │ ├── network/ # 공공 API Repository
-│ │ │ └── RefRepository.kt
-│ │ ├── pharm_ui/ # 약국 UI
-│ │ │ ├── PharmacyAdapter.kt
-│ │ │ ├── RefViewModel.kt
-│ │ │ └── RefViewModelFactory.kt
-│ │ ├── pill/ # 알약 DB 관련
-│ │ │ ├── Converters.kt
-│ │ │ ├── Pill.kt
-│ │ │ ├── PillDao.kt
-│ │ │ └── PillDatabase.kt
-│ ├── AddmedicineActivity.kt # 알약 추가 액티비티
-│ ├── AlarmReceiver.kt # 알람 브로드캐스트 수신기
-│ ├── MainActivity.kt
-│ ├── PillAdapter.kt # 알약 목록 어댑터
-│ ├── RefApplication.kt # Application 클래스
-│ ├── RvlistActivity.kt # RecyclerView 리스트 UI
-│ └── TmapActivity.kt # 지도 화면 (약국 위치 표시)
-│
-├── res/ # XML 리소스
-├── AndroidManifest.xml
-├── build.gradle.kts
-├── settings.gradle.kts
-├── gradle/
-├── gradlew / gradlew.bat
-└── .gitignore
+![image](https://github.com/user-attachments/assets/3150ffdc-77d3-4d64-8d9b-97cc85156e31)
 
 ---
 
