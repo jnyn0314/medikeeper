@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="linearLayoutTmap" type="id" />
+    <item name="bottomSheet" type="id" />
+    <item name="textTitle" type="id" />
+    <item name="recyclerViewPharmacy" type="id" />
+    <item name="rvPills" type="id" />
+    <item name="groupTitle" type="id" />
+</resources>

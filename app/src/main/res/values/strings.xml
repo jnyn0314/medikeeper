@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">mediKeeper</string>
+    <string name="url">https://api.odcloud.kr/</string>
+    <string name="serviceKey">inOyAAod5g8EW7TFB3ZMEo8vSoY9kWcd7sPICeRLoho6T2/JNauUWcBoZ7apsJw4S1XyazrtM67aEP96pRhjIA==</string>
+    <string name="tmap_api_key">CSIBB3pRif3Uy0WuvL18m2w3JL252b4RfNXgHOv4</string>
+</resources>
+    <!-- 성북구 약국 decoding key : inOyAAod5g8EW7TFB3ZMEo8vSoY9kWcd7sPICeRLoho6T2%2FJNauUWcBoZ7apsJw4S1XyazrtM67aEP96pRhjIA%3D%3D -->
+    <!--encoding key : inOyAAod5g8EW7TFB3ZMEo8vSoY9kWcd7sPICeRLoho6T2/JNauUWcBoZ7apsJw4S1XyazrtM67aEP96pRhjIA== -->
+
+
