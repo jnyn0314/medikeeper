@@ -1,1 +1,28 @@
-/build
+# IDE
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+build/
+*/build/
+
+# Local config
+local.properties
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Personal files
+*.mp4
+*.hwp
+*.pdf
+*.zip
+*.log
+
+# Kotlin/Java
+*.class
+
+# Android
+captures/
